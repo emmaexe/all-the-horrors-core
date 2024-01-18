@@ -1,7 +1,6 @@
 package moe.emmaexe.athcore.gameModifiers;
 
 import moe.emmaexe.athcore.Config;
-import moe.emmaexe.athcore.ServerConfig;
 import net.minecraft.util.RandomSource;
 import net.minecraft.world.entity.item.ItemEntity;
 import net.minecraft.world.entity.player.Player;
